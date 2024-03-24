@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tarea2.4</string>
+    <string name="description">Descripción</string>
+    <string name="clean">Limpiar campos</string>
+    <string name="save">Guardar</string>
+    <string name="list">Ver firmas</string>
+    <string name="id">Id</string>
+    <string name="lista">Lista</string>
+</resources>
